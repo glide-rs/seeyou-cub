@@ -12,7 +12,7 @@ env:
   # renovate: datasource=github-tags depName=rust lookupName=rust-lang/rust versioning=semver
   RUST_VERSION: 1.90.0
   # renovate: datasource=github-releases depName=cargo-insta lookupName=mitsuhiko/insta versioning=semver
-  CARGO_INSTA_VERSION: 1.43.2
+  CARGO_INSTA_VERSION: 1.44.3
 
 jobs:
   ci:
